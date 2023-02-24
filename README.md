@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adryan and I’m 17.
 - 🌱 I’m currently learning C#, python, Artificial Intelligence, react, react native, css, javascript, sql and arduino.
 - 💞️ Interested in learning new things and improving my skills.
-- 📫 LinkedIn: linkedin.com/in/adryan-pereira-masson-de-freitas-653991231
+- 📫 LinkedIn: [linkedin.com/in/adryan-pereira-masson-de-freitas-653991231](https://www.linkedin.com/in/adryanmasson/)
 - 📫 E-mail: adryanpereiramasson@gmail.com
