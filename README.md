@@ -53,20 +53,6 @@ Currently pursuing a **B.Sc. in Computer Science** and working as a **Full Stack
 
 ---
 
-## 📊 Skill Graphs
-
-### **Most Used Languages**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adryanmasson" />
-</a>
-
-### **GitHub Stats**
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryanmasson&layout=compact&langs_count=8&card_width=320" />
-</a>
-
----
-
 ## 🧩 Highlight Projects
 
 ### **Hospital Management Backend — Spring Boot**
