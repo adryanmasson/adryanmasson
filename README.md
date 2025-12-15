@@ -66,11 +66,6 @@ Currently pursuing a **B.Sc. in Computer Science** and working as a **Full Stack
 - Gamified leveling system  
 - SQL Server integration  
 
-### **Municipal Systems (IMA)**
-- Refactored legacy PHP modules into modern MVC  
-- Reduced bug resolution time by ~30%  
-- Delivered features 40% faster  
-
 ---
 
 ## 🎓 Education
