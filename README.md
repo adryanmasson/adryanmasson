@@ -87,6 +87,31 @@ I'm passionate about building reliable systems, writing maintainable code, and c
 
 <br/>
 
+## Open-source Contributions
+
+### inFAMOUS Second Son PC Port
+
+**Intel CPU Compatibility Fix** · C++ · Reverse Engineering
+
+Contributed a compatibility patch to the open-source PC port, enabling support for Intel processors without AMD SSE4A instructions.
+
+Implemented a C++ patch that emulates 96 AMD-specific `EXTRQ` instructions, preventing illegal-instruction crashes during launcher preparation.
+
+**Tested on:** Intel Core i5-10400F
+
+<div align="center">
+
+  <a href="https://github.com/Castlesea/infamous-second-son-pc-port/pull/62">
+    <img src="https://img.shields.io/badge/PR%20%2362-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<p align="center">
+  <sub>Contribution to the upstream project. The PC port itself was developed by the original project maintainers.</sub>
+</p>
+
+<br/>
 
 ## GitHub Activity
 
