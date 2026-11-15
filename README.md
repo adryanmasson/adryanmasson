@@ -1,85 +1,113 @@
-<!-- Banner -->
-<h1 align="center">👋 Hey, I'm <strong>Adryan Masson</strong></h1>
-<p align="center">
-  Backend & Cloud-focused Software Engineer · Problem Solver · Fast Learner
-</p>
 
-<p align="center">
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:312E81,100:2563EB&text=Adryan%20Masson&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Backend%20Software%20Engineer&descAlignY=65&descSize=18&animation=fadeIn" width="100%" />
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/adryanmasson">
-    <img src="https://img.shields.io/badge/LinkedIn-Adryan%20Masson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adryanpereiramasson@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Java+%26+Spring+Boot+Developer;Interested+in+Software+Architecture+%26+Cloud" />
+
+</div>
+
+<br/>
+
+<h2 align="center">About Me</h2>
+
+<br/>
+
+I'm a Backend Software Engineer with professional experience developing enterprise applications using **Java and Spring Boot**.
+
+Currently working at **CI&T**, contributing to enterprise software modernization, architectural improvements, application security, and software quality.
+
+I'm passionate about building reliable systems, writing maintainable code, and continuously improving my engineering skills.
+
+<br/>
+
+<h2 align="center">Tech stack</h2>
+
+<div align="center">
+
+  <p><strong>Professional experience</strong></p>
+
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,git,github,postman&theme=dark" />
+
+  <br/><br/>
+
+  <p><strong>Currently exploring</strong></p>
+
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Area | Technologies |
+|:---|:---|
+| Backend | Java, Spring Boot, Spring Security, REST APIs |
+| Architecture | Hexagonal Architecture, SOLID, Design Patterns |
+| Databases | SQL, MySQL, Relational Databases |
+| Testing | JUnit 5, Mockito, Automated Testing |
+| Security | OAuth 2.0, JWT, Application Security |
+| Tools | Git, Maven, SonarQube, Checkmarx, Mend |
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/adryanmasson/universidadeAmazonia-API">
+    <img src="https://img.shields.io/badge/Universidade%20Amazonia-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/adryanmasson/StudIA">
+    <img src="https://img.shields.io/badge/StudIA-View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<p align="center">
+  <sub>More projects coming soon.</sub>
 </p>
 
----
+<br/>
 
-## 🚀 About Me
 
-I'm a **Backend & Cloud-focused Software Engineer** with hands-on experience in:
+## GitHub Activity
 
-- PHP, JavaScript, C#, Python  
-- SQL, REST APIs, authentication flows  
-- MVC, clean architecture, CI/CD pipelines  
-- Modern debugging, refactoring, and AI-assisted development  
+<div align="center">
 
-I love solving problems, scaling systems, and learning fast.  
-Currently pursuing a **B.Sc. in Computer Science** and working as a **Full Stack Developer Intern at IMA**.
+  <a href="https://github.com/adryanmasson">
+    <img src="https://img.shields.io/badge/GitHub-adryanmasson-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
----
+  <br/><br/>
 
-## 🛠️ Tech Stack
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryanmasson&theme=tokyonight" width="100%" />
 
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+</div>
 
-### **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=pattern&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🧩 Highlight Projects
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:0D1117&height=100&section=footer" width="100%" />
 
-### **Hospital Management Backend — Spring Boot**
-- Full CRUD + authentication  
-- MVC + service layer + transactional operations  
-- DTOs + validation + API documentation  
+  <sub>Building software with purpose, curiosity, and continuous improvement.</sub>
 
-### **StudIA — AI-assisted Learning App (C#)**
-- MVVM architecture  
-- AI-assisted question generation  
-- Gamified leveling system  
-- SQL Server integration  
-
----
-
-## 🎓 Education
-
-- **B.Sc. Computer Science** — Universidade Paulista (in progress)  
-- **Technical Diploma in Systems Development** — ETEC Hortolândia  
-
----
-
-## 💬 Let's Connect
-
-📩 **Email:** adryanpereiramasson@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/adryanmasson  
-
----
-
-<p align="center"><i>"Engineering excellence, ownership, and continuous improvement."</i></p>
+</div>
